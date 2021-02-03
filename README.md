@@ -3,9 +3,9 @@ Team tasked to conduct a strategic analysis for a cafe and come out with recomme
 Used *Tableau* storyboard to showcase our insights and visualisation.
 
 # Data Extraction
-Coded a web-scrapper using Python to extract food reviews.  
-Code can be found in **Web-Scrapper-Python-Code** folder
-Data extracted can be found in **Data_Extracted-ExcelFormat** folder
+- Created a web-scrapper using Python to extract food reviews.  
+- Code can be found in **Web-Scrapper-Python-Code** folder
+- Data extracted can be found in **Data_Extracted-ExcelFormat** folder
 
 # Documentation
 Reports and presenation slides can be found under **FYP-Documentation** folder
