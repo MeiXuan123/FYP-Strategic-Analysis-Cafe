@@ -1,4 +1,4 @@
-# Singapore Polytechnic Final Year Project
+# Final Year Project
 Team tasked to conduct a strategic analysis for a cafe and come out with recommendation for their menu.  
 Used *Tableau* storyboard to showcase our insights and visualisation.
 
